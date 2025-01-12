@@ -100,3 +100,4 @@
 - https://namu.wiki/w/SHA
 - https://egg-stone.tistory.com/19
 - https://swingswing.tistory.com/169
+- [go 내부적으로는 map을 어떻게 구현했을까](https://blog.frec.kr/golang/go-hashtable-0/)
